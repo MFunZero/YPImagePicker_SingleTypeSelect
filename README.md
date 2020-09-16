@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> <br><img src="Images/logo/logotype_horizontal.png?raw=true" alt="ypimagepicker" width="512"> <br>
 
 <img src="https://raw.githubusercontent.com/Yummypets/YPImagePicker/master/Images/visual.jpg" width="400px" >
@@ -376,3 +377,6 @@ See [LICENSE](LICENSE) for details.
 releases/tag/3.4.0)
 - Swift 5.0 -> version [**4.0.0**](https://github.com/Yummypets/YPImagePicker/releases/tag/4.0.0)
 - Swift 5.1 -> version [**4.1.2**](https://github.com/Yummypets/YPImagePicker/releases/tag/4.1.2)
+=======
+# YPImagePicker_SingleTypeSelect
+>>>>>>> 69554ffaecb35201d29df59abee15b9dc42f6ff6
